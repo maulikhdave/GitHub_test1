@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace WebApplication1
+namespace Varologic_ExistingProject_load
 {
     public class Global : System.Web.HttpApplication
     {
